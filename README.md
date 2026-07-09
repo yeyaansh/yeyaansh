@@ -57,7 +57,7 @@
 
 Built and configured AI agents, subagents, actions, and Agent Scripts using Agentforce Builder · Designed reusable prompt templates with Prompt Builder · Integrated Flows, Apex actions, and Salesforce data into Agentforce solutions with testing, guardrails, and responsible AI practices.
 
-[![Verify Credential](https://img.shields.io/badge/Verify%20Credential-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
+[![Verify Credential](https://img.shields.io/badge/Verify%20Credential-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=ed5/mzTaRrjssUNvbDAjRhdPmX3gNcYhOd3d+6rY/dctzCAh36GtvHpada1DwpXC)
 
 </div>
 
@@ -94,7 +94,7 @@ Full-stack coding platform with automated code execution via Judge0, secure JWT 
 
 `Node.js` `Express.js` `React` `Redux` `MongoDB` `Redis` `Cloudinary` `Gemini AI`
 
-🔗 [Repo](#)
+🔗 [Repo](https://github.com/yeyaansh/padhlo)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ An SPA with smooth navigation and transitions, featuring interactive algorithm a
 
 `React` `React Router` `Framer Motion` `Tailwind CSS`
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://yeyaansh.com/projects/algov/)
 
 </td>
 </tr>
