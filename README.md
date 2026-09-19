@@ -19,9 +19,10 @@
 
 ## 👋 About Me
 
-- 🔷 Currently a **Salesforce Associate Developer** at **Kloudcodey Pvt. Ltd.**, building on Apex, Lightning Web Components (LWC), and Flows
+- 🔷 Currently a **Salesforce Associate Developer** at **Kloudcodey Pvt. Ltd.** — promoted from Intern in 3 months — building on Apex, Lightning Web Components (LWC), and Flows
 - 🏆 **Salesforce Certified Agentforce Specialist** — building AI Agents, Subagents, and Prompt Templates on the Agentforce platform
-- 🔌 I build **Apex REST integrations & callouts** connecting Salesforce to third-party systems, and automate workflows with **Apex Inbound Email Handlers**
+- 🤖 Architected an **Agentforce Service Agent POC** on Enhanced Messaging with SLA-based Omni-Channel routing and full-context human handoff
+- 🔌 I build **Apex REST integrations & callouts**, automate workflows with **Apex Inbound Email Handlers**, and run scheduled **Batch Apex** reconciliation jobs across SFTP-integrated systems
 - 🌱 Focused on the intersection of **Salesforce + AI** — Agentforce Builder, Prompt Builder, and responsible AI guardrails
 - 🎓 B.Tech in Computer Science Engineering, Kashi Institute of Technology, 2026
 - 💼 Open to full-time **Salesforce Developer / Consultant** roles, freelance projects, and Agentforce work — reach out anytime!
@@ -34,10 +35,11 @@
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Batch Apex](https://img.shields.io/badge/Batch%20Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Salesforce Admin](https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Integrations](https://img.shields.io/badge/Salesforce%20Integrations-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Integrations](https://img.shields.io/badge/REST%20%26%20Composite%20APIs-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 <br/>
 ![Agentforce Builder](https://img.shields.io/badge/Agentforce%20Builder-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -66,15 +68,13 @@ Built and configured AI agents, subagents, actions, and Agent Scripts using Agen
 ## 💼 Experience
 
 **Salesforce Associate Developer** · Kloudcodey Pvt. Ltd. · *Jan 2026 – Present*
-- Developed Salesforce features using Apex, LWC, and Flows — automating business workflows and cutting manual effort
-- Built Apex REST API integrations & Apex callouts, including a real-time Email Verification API integration
-- Implemented Salesforce Email Services via Apex Inbound Email Handlers to automate actions from incoming emails
-- Supported deployments across sandbox and production, following Salesforce best practices and governor limits
+- Promoted from Intern to Associate Developer within 3 months for reliably shipping production-ready Salesforce automation
+- Architected an Agentforce Service Agent POC on Enhanced Messaging with SLA-based Omni-Channel routing, auto-engaging inbound conversations and handing off to human queues with full context intact
+- Built Apex REST API integrations & callouts — including a real-time Email Verification API — connecting Salesforce to third-party platforms, and automated inbound-email triage via Apex Email Services
+- Automated nightly Contact-Account reconciliation with External ID-based upsert matching and scheduled Batch Apex across SFTP-integrated systems (DataImporter.io, Files.com); led a production-to-production data migration via Data Loader
 
 **Salesforce Developer Intern** · Kloudcodey Pvt. Ltd. · *Nov 2025 – Jan 2026*
-- Learned and applied Salesforce fundamentals — Apex, LWC, and Flow
-- Contributed to development tasks and Salesforce feature configuration
-- Gained hands-on experience with data handling, automation, and platform customization
+- Ramped quickly on Apex, LWC, and Flow while configuring Salesforce features for live client orgs — earning early conversion to a full-time Associate Developer role
 
 **President, Techno Club** · Kashi Institute of Technology · *Jan 2024 – Feb 2025*
 - Organized 8+ workshops and 1 technical event, mentoring 200+ students in development basics
@@ -88,16 +88,29 @@ Built and configured AI agents, subagents, actions, and Agent Scripts using Agen
 <tr>
 <td width="50%" valign="top">
 
+**Rack Audit — Store Rack Verification PWA**
+
+Installable, mobile-first PWA letting field agents scan in-store rack QR codes and verify status against Salesforce in real time. Uses a secure server-to-server OAuth 2.0 JWT Bearer integration with atomic Composite API transactions and a blind-verification model, so automation only fires on agent-confirmed outcomes.
+
+`Node.js` `Express.js` `MongoDB` `Salesforce REST & Composite APIs` `OAuth 2.0 JWT` `PWA` `Vercel`
+
+🔗 [Live Demo](#) · [Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
 **Sketch Editor — AI-Powered Coding Platform**
 
-Full-stack coding platform with automated code execution via Judge0, secure JWT authentication, Redis caching, and Gemini AI integration for faster, context-aware coding hints.
+Full-stack coding platform with automated code execution via Judge0, secure JWT authentication, Redis caching, and LLM-powered integration for faster, context-aware coding hints.
 
-`Node.js` `Express.js` `React` `Redux` `MongoDB` `Redis` `Cloudinary` `Gemini AI`
+`Node.js` `Express.js` `React` `Redux` `MongoDB` `Redis` `Cloudinary` `Shadcn UI` `LLM`
 
 🔗 [Repo](https://github.com/yeyaansh/padhlo)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **Algorithm Visualizer**
 
@@ -132,6 +145,7 @@ An SPA with smooth navigation and transitions, featuring interactive algorithm a
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 **Backend**
 
@@ -154,6 +168,7 @@ An SPA with smooth navigation and transitions, featuring interactive algorithm a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
