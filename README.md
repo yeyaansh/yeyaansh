@@ -94,7 +94,7 @@ Installable, mobile-first PWA letting field agents scan in-store rack QR codes a
 
 `Node.js` `Express.js` `MongoDB` `Salesforce REST & Composite APIs` `OAuth 2.0 JWT` `PWA` `Vercel`
 
-🔗 [Live Demo](#) · [Repo](#)
+🔗 [Live Demo](https://qrscan-salesforce.vercel.app/) · [Repo](https://github.com/yeyaansh/qrscan_salesforce)
 
 </td>
 <td width="50%" valign="top">
@@ -173,19 +173,18 @@ An SPA with smooth navigation and transitions, featuring interactive algorithm a
 <br/>
 
 
-<!--
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeyaansh&show_icons=true&hide_border=true&count_private=true&title_color=00A1E0&icon_color=00A1E0&text_color=c9d1d9&bg_color=0D1117" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyaansh&layout=compact&hide_border=true&title_color=00A1E0&text_color=c9d1d9&bg_color=0D1117" width="38%"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeyaansh&hide_border=true&background=0D1117&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0" width="60%"/>
 
 </div>
 
 <br/>
-
--->
 
 <div align="center">
 
