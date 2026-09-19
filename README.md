@@ -173,19 +173,6 @@ An SPA with smooth navigation and transitions, featuring interactive algorithm a
 <br/>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeyaansh&show_icons=true&hide_border=true&count_private=true&title_color=00A1E0&icon_color=00A1E0&text_color=c9d1d9&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyaansh&layout=compact&hide_border=true&title_color=00A1E0&text_color=c9d1d9&bg_color=0D1117" width="38%"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeyaansh&hide_border=true&background=0D1117&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0" width="60%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### 🤝 Let's Build Something Great on Salesforce
